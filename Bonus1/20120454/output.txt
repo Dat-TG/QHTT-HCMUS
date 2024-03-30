@@ -1,0 +1,5 @@
+1) Danh sách các điểm cực biên:
+(0.0;14.0),(15.0;0.0),(5.0;4.0),
+2) Miền ràng buộc không bị chặn.
+3) GTLN không tồn tại
+GTNN là F = 32.0 tại x1 = 5.0, x2 = 4.0.
